@@ -1,0 +1,23 @@
+01_chekun:
+  title: Baidu
+  link: http://baidu.com
+  avatar: /media/links/chekun.jpg
+  description: 百度
+
+02_wangbo:
+  title: Weibo
+  link: http://weibo.com
+  avatar: /media/links/wangbo.jpg
+  description: 微博
+
+03_yuanxuxu:
+  title: 163
+  link: https://163.com/
+  avatar: /media/links/yuanxuxu.jpg
+  description: 网易
+
+04_candisheng:
+  title: QQ
+  link: http://www.qq.com/
+  avatar: /media/links/kandisheng.jpg
+  description: 腾讯
